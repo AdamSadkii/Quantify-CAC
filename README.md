@@ -1,4 +1,4 @@
-#Quantify 📈
+# Quantify 📈
 
 Quantify is a stock prediction app that uses machine learning to forecast market trends and support data-driven investment decisions. It analyzes historical stock data, technical indicators, and real-time inputs to generate predictions and visualizations that help users trade smarter.
 
